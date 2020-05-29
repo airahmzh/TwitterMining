@@ -7,3 +7,9 @@ This project is to study marketing strategy for KitchenAid
 - Influencer
 - Hashtag
 - Time
+
+
+
+## Requirements
+ 
+ Registered as twitter developer
